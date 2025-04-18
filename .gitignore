@@ -1,0 +1,7 @@
+# Excluir cualquier carpeta venv en cualquier nivel
+**/venv/
+
+# Excluir las carpetas de trabajo generadas
+pdf/
+jpgs/
+csv/
